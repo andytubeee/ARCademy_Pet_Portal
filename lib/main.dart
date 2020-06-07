@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
       title: 'Your Pet',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
-        primarySwatch: Colors.blue,
+        primaryColor: Color(0xffB6F2D0),
         visualDensity: VisualDensity.adaptivePlatformDensity,
       ),
       home: MyHomePage(title: 'Your Pet'),
